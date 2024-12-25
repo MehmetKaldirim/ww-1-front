@@ -8,6 +8,7 @@ import {
   SafeAreaView,
   KeyboardAvoidingView,
   ScrollView,
+  Platform,
 } from "react-native";
 import { Box, Spinner, TextArea, Toast } from "native-base";
 import ScreenTitle from "../components/ScreenTitle";
